@@ -2,6 +2,8 @@
 
 A Python library for NICE authentication.
 
+**Current version: 0.1.0**
+
 ## Overview
 
 `python-nice-auth` is a Python library that provides an interface for interacting with the NICE authentication API. It supports obtaining tokens, generating encrypted tokens, and creating URLs for NICE authentication services.
