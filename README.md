@@ -13,7 +13,7 @@ A Python library for NICE authentication.
 To install the library, use pip:
 
 ```bash
-pip install python-nice-auth
+pip install -U python-nice-auth
 ```
 
 ## Configuration
@@ -25,7 +25,7 @@ NICE_AUTH_BASE_URL=https://svc.niceapi.co.kr:22001
 NICE_CLIENT_ID=your_client_id
 NICE_CLIENT_SECRET=your_client_secret
 NICE_PRODUCT_ID=your_product_id
-NICE_RETURN_URL=your_return_url
+NICE_RETURN_URL=https://yourdomain.com/verify
 NICE_AUTHTYPE=M
 NICE_POPUPYN=N
 ```

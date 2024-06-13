@@ -1,4 +1,4 @@
-# NHNCloudSMS Developer Guide
+# Nice Autu Developer Guide
 
 This guide is for developers contributing to the `NHNCloudSMS` library.
 
