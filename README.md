@@ -2,7 +2,7 @@
 
 A Python library for NICE authentication.
 
-**Current version: 0.1.1**
+**Current version: 0.1.2**
 
 ## Overview
 
