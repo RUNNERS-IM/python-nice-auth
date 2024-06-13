@@ -13,7 +13,7 @@ A Python library for NICE authentication.
 To install the library, use pip:
 
 ```bash
-pip install -U python-nice-auth
+pip install -U nice-auth
 ```
 
 ## Configuration
