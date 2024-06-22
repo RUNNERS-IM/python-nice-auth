@@ -113,5 +113,6 @@ class NiceAuthService:
         return nice_url
 
     def verify_auth_result(self, enc_data, key, iv):
+        # AES 복호화
         decrypted_data = decrypt_aes(enc_data, key, iv)
         return json.loads(decrypted_data)
